@@ -1,2 +1,5 @@
 # ukiukinatto-remake
-うきうきなっとう、今度こそ！
+チーム名->うきうきなっとう
+プロダクト名->アイトル
+miro->https://miro.com/app/board/uXjVPT-MpDA=/
+repl.it->https://aitoru.ukuknatto.repl.co
